@@ -1,3 +1,1 @@
-"# count-metal-bands-by-location" 
-"# count-metal-bands-by-location" 
-"# count-metal-bands-by-location" 
+This pulls band location data from metal-archives.com and puts it into a hash map.
